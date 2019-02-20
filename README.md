@@ -1,4 +1,4 @@
-# leetcode
+# LeetCode
 coding practice
 
 # Easy: 3
