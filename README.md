@@ -1,7 +1,7 @@
 # LeetCode
 coding practice
 
-# Easy: 3
+# Easy
 
 2019/2/20 Two Sum https://leetcode.com/problems/two-sum/
 
@@ -11,6 +11,6 @@ coding practice
 
 2019/3/2  Roman to Integer https://leetcode.com/problems/roman-to-integer/
 
-# Medium: 0
+# Medium
 
-# Hard: 0
+# Hard
