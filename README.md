@@ -11,6 +11,8 @@ coding practice
 
 2019/3/2  Roman to Integer https://leetcode.com/problems/roman-to-integer/
 
+2019/3/2  Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
+
 # Medium
 
 # Hard
