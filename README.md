@@ -13,6 +13,8 @@ coding practice
 
 2019/3/2  Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
 
+2019/3/2  Valid Parentheses https://leetcode.com/problems/valid-parentheses/
+
 # Medium
 
 # Hard
