@@ -17,6 +17,8 @@ coding practice
 
 2019/3/12 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
 
+2019/3/12 Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 # Medium
 
 # Hard
