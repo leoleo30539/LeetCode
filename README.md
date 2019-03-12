@@ -19,6 +19,8 @@ coding practice
 
 2019/3/12 Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
+2019/3/12 Remove Element https://leetcode.com/problems/remove-element/
+
 # Medium
 
 # Hard
