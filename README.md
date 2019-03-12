@@ -15,6 +15,8 @@ coding practice
 
 2019/3/2  Valid Parentheses https://leetcode.com/problems/valid-parentheses/
 
+2019/3/12 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
+
 # Medium
 
 # Hard
