@@ -21,6 +21,8 @@ coding practice
 
 2019/3/12 Remove Element https://leetcode.com/problems/remove-element/
 
+2019/3/13 Implement strStr() https://leetcode.com/problems/implement-strstr/
+
 # Medium
 
 # Hard
