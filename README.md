@@ -23,6 +23,8 @@ coding practice
 
 2019/3/13 Implement strStr() https://leetcode.com/problems/implement-strstr/
 
+2019/3/13 Search Insert Position https://leetcode.com/problems/search-insert-position/
+
 # Medium
 
 # Hard
