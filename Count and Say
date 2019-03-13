@@ -1,0 +1,21 @@
+class Solution(object):
+    def countAndSay(self, n):
+        """
+        :type n: int
+        :rtype: str
+        """
+        ans = "1"
+        for i in range(n-1):
+            count = 0
+            temp = ans[0]
+            tmp = ""
+            for j in ans:
+                if(temp == j):
+                    count += 1
+                else:
+                    tmp += str(count) + temp
+                    temp = j
+                    count = 1
+            ans = tmp + str(count) + temp
+        return ans
+                    
