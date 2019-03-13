@@ -25,6 +25,8 @@ coding practice
 
 2019/3/13 Search Insert Position https://leetcode.com/problems/search-insert-position/
 
+2019/3/13 Count and Say https://leetcode.com/problems/count-and-say/
+
 # Medium
 
 # Hard
