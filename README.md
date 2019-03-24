@@ -29,6 +29,8 @@ coding practice
 
 2019/3/25 Maximum Subarray https://leetcode.com/problems/maximum-subarray/
 
+2019/3/25 Length of Last Word https://leetcode.com/problems/length-of-last-word/
+
 # Medium
 
 # Hard
