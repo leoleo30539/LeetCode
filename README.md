@@ -37,6 +37,8 @@ coding practice
 
 2019/3/31 Sqrt(x) https://leetcode.com/problems/sqrtx/
 
+2019/3/31 Climbing Stairs https://leetcode.com/problems/climbing-stairs/
+
 # Medium
 
 # Hard
