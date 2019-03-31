@@ -35,6 +35,8 @@ coding practice
 
 2019/3/31 Add Binary https://leetcode.com/problems/add-binary/
 
+2019/3/31 Sqrt(x) https://leetcode.com/problems/sqrtx/
+
 # Medium
 
 # Hard
