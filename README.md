@@ -33,6 +33,8 @@ coding practice
 
 2019/3/25 Plus One https://leetcode.com/problems/plus-one/
 
+2019/3/31 Add Binary https://leetcode.com/problems/add-binary/
+
 # Medium
 
 # Hard
