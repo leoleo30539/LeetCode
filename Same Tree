@@ -1,0 +1,27 @@
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def isSameTree(self, p, q):
+        """
+        :type p: TreeNode
+        :type q: TreeNode
+        :rtype: bool
+        """
+        a=[]
+        b=[]
+        def traversal(lists, tree):
+            if tree:
+                lists.append(tree.val)
+                traversal(lists, tree.left)
+                traversal(lists, tree.right)
+            else:
+                lists.append('null')
+                return
+        traversal(a,p)
+        traversal(b,q)
+        return a==b
