@@ -39,6 +39,8 @@ coding practice
 
 2019/3/31 Climbing Stairs https://leetcode.com/problems/climbing-stairs/
 
+2019/4/8  Remove Duplicates from Sorted List https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
 # Medium
 
 # Hard
