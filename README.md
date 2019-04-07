@@ -41,6 +41,8 @@ coding practice
 
 2019/4/8  Remove Duplicates from Sorted List https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
+2019/4/8  Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/
+
 # Medium
 
 # Hard
