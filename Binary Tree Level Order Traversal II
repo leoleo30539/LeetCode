@@ -1,0 +1,25 @@
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def levelOrderBottom(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        List = []
+        self.dfs(0, List, root)
+        List.reverse()
+        return List
+    def dfs(self, level, List, node):
+        if not node:
+            return
+        if len(List) < level+1:
+            List.append([])
+        List[level].append(node.val)
+        self.dfs(level+1, List, node.left)
+        self.dfs(level+1, List, node.right)
