@@ -47,6 +47,8 @@ coding practice
 
 2019/4/30 Symmetric Tree https://leetcode.com/problems/symmetric-tree/
 
+2019/4/30 Maximum Depth of Binary Tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
 # Medium
 
 # Hard
