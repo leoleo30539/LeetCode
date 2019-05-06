@@ -1,0 +1,30 @@
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        substring = ''
+        ans = 0
+        temp = 0
+        for char in s:
+            is_in, sub = self.isinsubstring(char, substring)
+            if not is_in:
+                substring = sub
+                ans = max(len(sub), ans)
+            else:
+                substring = sub
+        return ans
+            
+    def isinsubstring(self, c, s):
+        i = 0
+        sub = ''
+        for char in s:
+            i += 1
+            sub += char
+            if c == char:
+                sub = s[i:] + c
+                return True, sub
+        i += 1
+        sub += c
+        return False, sub
