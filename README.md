@@ -51,7 +51,9 @@ coding practice
 
 2019/4/30 Binary Tree Level Order Traversal II https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 
-2019/5/32 Convert Sorted Array to Binary Search Tree https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+2019/5/21 Convert Sorted Array to Binary Search Tree https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+2019/5/21 Balanced Binary Tree https://leetcode.com/problems/balanced-binary-tree/
 
 # Medium
 
