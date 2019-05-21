@@ -55,6 +55,8 @@ coding practice
 
 2019/5/21 Balanced Binary Tree https://leetcode.com/problems/balanced-binary-tree/
 
+2019/5/21 Minimum Depth of Binary Tree https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
 # Medium
 
 2019/5/6 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
